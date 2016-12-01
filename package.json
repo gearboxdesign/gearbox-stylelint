@@ -1,0 +1,23 @@
+{
+  "name": "gearbox-stylelint",
+  "version": "1.0.0",
+  "description": "Gearbox SCSS style linting rules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gearboxdesign/gearbox-stylelint.git"
+  },
+  "author": "Matt Robinson",
+  "license": "ISC",
+  "homepage": "git+https://github.com/gearboxdesign/gearbox-stylelint#readme",
+  "dependencies": {
+    "stylelint": "6.7.0"
+  },
+  "devDependencies": {
+    "eslint": "3.10.2",
+    "gearbox-eslint": "1.0.0"
+  }
+}
